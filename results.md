@@ -1,7 +1,7 @@
 # Predictor Results:
 
 ### Which model has a lower loss?
-The closing stock price predictor had a lower loss. Deviating a lot less fromt the STD. 
+The closing stock price predictor had a lower loss. Deviating a lot less from the actual results. 
 
 
 ### Which model tracks the actual values better over time?
